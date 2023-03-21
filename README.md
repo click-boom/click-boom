@@ -5,6 +5,7 @@
 
 ## About Me:  
 <table><tr><td valign="top" width="50%">
+  
 - 👦 Self-Learner,Introvert, Tech Ethusiast, To-Be Data analyst, 
   
 - 🔭 Interactive bunch of learners for mutual growth.
