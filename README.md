@@ -1,20 +1,19 @@
 
-# 🏄‍♂️ Rohan Chaulagain
+# 🧑‍💻RohaN ChAuLAgAiN
 
-**`self-proclaimed geek(To-Be tech enthusiast/Self-learner/Introvert)`**
-## Rapidfire  
+**` (Self-proclaimed geek , Wanna-Be Jack of all trades)`**
+
+## About Me:  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 👦 Self-Learner,Introvert, Tech Ethusiast, To-Be Data analyst, 
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🔭 Interactive bunch of learners for mutual growth.
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🙅   Pleasers, Procrastinators. Hello & Bye
+ 
+- 💬   Tech and coding stuffs only if sincerely interested. Always ready for debates.
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: Laziest Hardworker
   </td><td valign="top" width="50%">
 
 <div align="center">
