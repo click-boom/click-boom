@@ -4,6 +4,8 @@
 # <h1 align="left">🧑‍💻RohaN ChAuLAgAiN<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
 **` (Self-proclaimed geek , Wanna-Be Jack of all trades)`**
   
+  
+  
 # About Me:  
 <table><tr><td valign="top" width="50%">
   
@@ -17,15 +19,19 @@
   
 - ⚡ Fun fact: Laziest Hardworker
   
-- 📫 How to reach me **roahhanchaulagain@gmail.com**
-  
-  </td><td valign="top" width="50%">
+ </td><td valign="top" width="50%">
+
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
 </div>  
 
 </td></tr></table>  <div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Socials:</h3>
+<!Instagram>
+<a href="https://www.instagram.com/m_r.0hanc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan chaulagain" height="30" width="40"</a>
+<a href="https://t.me/rolen_n" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram logo" width="35" height="35"></a>
+<a href="https://github.com/click-boom/" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="35" height="35"></a>
 
+  
